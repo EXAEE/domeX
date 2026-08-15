@@ -42,7 +42,8 @@ Główne założenia:
 | [14_Zaktualizowane_Koszty_z_EV.md](14_Zaktualizowane_Koszty_z_EV.md) | Zaktualizowane widełki kosztów z EV |
 | [15_Oranzeria_Szczegoly_Techniczne.md](15_Oranzeria_Szczegoly_Techniczne.md) | Szczegóły techniczne oranżerii |
 | [16_Oranzeria_Pasywna_i_Dom_Pasywny.md](16_Oranzeria_Pasywna_i_Dom_Pasywny.md) | Oranżeria pasywna + droga do domu pasywnego |
-| [17_Problemy_Lato_i_Ryzyka_Systemu.md](17_Problemy_Lato_i_Ryzyka_Systemu.md) | Problemy latem + ryzyka całego systemu i sposoby radzenia sobie |
+| [17_Problemy_Lato_i_Ryzyka_Systemu.md](17_Problemy_Lato_i_Ryzyka_Systemu.md) | Problemy latem + ryzyka całego systemu |
+| [18_Bio_Basen_Kury_Zwierzeta.md](18_Bio_Basen_Kury_Zwierzeta.md) | Bio-basen, kury i inne zwierzęta – analiza etyczna i systemowa |
 
 ---
 
