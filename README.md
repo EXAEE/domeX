@@ -7,15 +7,16 @@ Projekt Nova – 2026
 
 ## Czym jest domeX?
 
-domeX to kompleksowy projekt domu, w którym wszystkie elementy (żywność, energia, woda, ciepło, inteligencja, odpady, przestrzeń) wzajemnie się wzmacniają, redukują redundancję i pełnią wiele funkcji jednocześnie (dual-use).
+domeX to kompleksowy projekt domu, w którym wszystkie elementy (żywność, energia, woda, ciepło, inteligencja, odpady, przestrzeń, mobilność) wzajemnie się wzmacniają, redukują redundancję i pełnią wiele funkcji jednocześnie (dual-use).
 
 Główne założenia:
 - Maksymalna synergia i zamknięte obiegi
 - Dual-use / multi-use każdego elementu
 - Reużycie, upcycling i DIY tam, gdzie ma sens
 - Lokalna inteligencja (LLM + sensory) jako układ nerwowy
-- Możliwość integracji przestrzeni podziemnych (schron / garaż / magazyn)
-- Realizm kosztowy i etapowe wdrażanie
+- Integracja EV + maszyn elektrycznych
+- Możliwość integracji przestrzeni podziemnych
+- Realizm kosztowy, dotacje i etapowe wdrażanie
 
 ---
 
@@ -31,9 +32,10 @@ Główne założenia:
 | [05_Energia_Data_Center_LLM.md](05_Energia_Data_Center_LLM.md) | Energia + lokalna inteligencja |
 | [06_Produkcja_Zywnosci.md](06_Produkcja_Zywnosci.md) | Żywność w kontekście całego systemu |
 | [07_Reuzywanie_DIY_Upcycling.md](07_Reuzywanie_DIY_Upcycling.md) | Analiza reużycia i DIY |
-| [08_Podziemne_Przestrzenie.md](08_Podziemne_Przestrzenie.md) | Schron / garaż / magazyn podziemny – integracja |
+| [08_Podziemne_Przestrzenie.md](08_Podziemne_Przestrzenie.md) | Schron / garaż / magazyn podziemny |
 | [09_Plan_Wdrozenia_Koszty.md](09_Plan_Wdrozenia_Koszty.md) | Etapy, koszty, priorytety |
 | [10_Innowacje_do_Przetestowania.md](10_Innowacje_do_Przetestowania.md) | Lista propozycji eksperymentalnych |
+| [11_EV_Maszyny_Finanse_Plan_Dzialki.md](11_EV_Maszyny_Finanse_Plan_Dzialki.md) | EV, maszyny, finanse, dotacje, kredyt vs własne środki, rozplanowanie na działce |
 
 ---
 
