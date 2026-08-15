@@ -16,6 +16,7 @@ Główne założenia:
 - Lokalna inteligencja (LLM + sensory) jako układ nerwowy
 - Integracja EV + maszyn elektrycznych
 - Możliwość integracji przestrzeni podziemnych
+- Dążenie do standardu quasi-pasywnego
 - Realizm kosztowy, dotacje i etapowe wdrażanie
 
 ---
@@ -39,6 +40,8 @@ Główne założenia:
 | [12_Szczegolowy_Plan_Rozmieszczenia.md](12_Szczegolowy_Plan_Rozmieszczenia.md) | Szczegółowy plan rozmieszczenia z wymiarami |
 | [13_Ladowarki_EV_i_Maszyny.md](13_Ladowarki_EV_i_Maszyny.md) | Lista i rekomendacje ładowarek |
 | [14_Zaktualizowane_Koszty_z_EV.md](14_Zaktualizowane_Koszty_z_EV.md) | Zaktualizowane widełki kosztów z EV |
+| [15_Oranzeria_Szczegoly_Techniczne.md](15_Oranzeria_Szczegoly_Techniczne.md) | Szczegóły techniczne oranżerii |
+| [16_Oranzeria_Pasywna_i_Dom_Pasywny.md](16_Oranzeria_Pasywna_i_Dom_Pasywny.md) | Oranżeria pasywna + droga do domu pasywnego |
 
 ---
 
