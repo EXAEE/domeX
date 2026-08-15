@@ -35,7 +35,10 @@ Główne założenia:
 | [08_Podziemne_Przestrzenie.md](08_Podziemne_Przestrzenie.md) | Schron / garaż / magazyn podziemny |
 | [09_Plan_Wdrozenia_Koszty.md](09_Plan_Wdrozenia_Koszty.md) | Etapy, koszty, priorytety |
 | [10_Innowacje_do_Przetestowania.md](10_Innowacje_do_Przetestowania.md) | Lista propozycji eksperymentalnych |
-| [11_EV_Maszyny_Finanse_Plan_Dzialki.md](11_EV_Maszyny_Finanse_Plan_Dzialki.md) | EV, maszyny, finanse, dotacje, kredyt vs własne środki, rozplanowanie na działce |
+| [11_EV_Maszyny_Finanse_Plan_Dzialki.md](11_EV_Maszyny_Finanse_Plan_Dzialki.md) | EV, maszyny, finanse, dotacje, kredyt |
+| [12_Szczegolowy_Plan_Rozmieszczenia.md](12_Szczegolowy_Plan_Rozmieszczenia.md) | Szczegółowy plan rozmieszczenia z wymiarami |
+| [13_Ladowarki_EV_i_Maszyny.md](13_Ladowarki_EV_i_Maszyny.md) | Lista i rekomendacje ładowarek |
+| [14_Zaktualizowane_Koszty_z_EV.md](14_Zaktualizowane_Koszty_z_EV.md) | Zaktualizowane widełki kosztów z EV |
 
 ---
 
