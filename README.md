@@ -44,7 +44,8 @@ Główne założenia:
 | [16_Oranzeria_Pasywna_i_Dom_Pasywny.md](16_Oranzeria_Pasywna_i_Dom_Pasywny.md) | Oranżeria pasywna + droga do domu pasywnego |
 | [17_Problemy_Lato_i_Ryzyka_Systemu.md](17_Problemy_Lato_i_Ryzyka_Systemu.md) | Problemy latem + ryzyka całego systemu |
 | [18_Bio_Basen_Kury_Zwierzeta.md](18_Bio_Basen_Kury_Zwierzeta.md) | Bio-basen, kury i inne zwierzęta |
-| [19_Zautomatyzowana_Produkcja_Zywnosci.md](19_Zautomatyzowana_Produkcja_Zywnosci.md) | Pełna koncepcja zautomatyzowanej, całorocznej produkcji żywności |
+| [19_Zautomatyzowana_Produkcja_Zywnosci.md](19_Zautomatyzowana_Produkcja_Zywnosci.md) | Zautomatyzowana, całoroczna produkcja żywności |
+| [20_Audyt_Calosci_i_Optymalizacja.md](20_Audyt_Calosci_i_Optymalizacja.md) | Audyt całości, luki, poprawki i optymalizacja |
 
 ---
 
